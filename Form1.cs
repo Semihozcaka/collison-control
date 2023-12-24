@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
 
-namespace NDPG221210052proje
+namespace collisincontrol
 {
     public partial class Form1 : Form
     {
