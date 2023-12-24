@@ -1,4 +1,5 @@
-﻿namespace NDPG221210052proje
+﻿namespace collisincontrol
+
 {
     partial class Form1
     {
